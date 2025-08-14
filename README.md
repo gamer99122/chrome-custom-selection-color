@@ -33,12 +33,12 @@
 ---
 
 ## 📂 專案結構
-manifest.json # 擴充套件設定檔
-popup.html # 設定視窗 HTML
-popup.js # 處理顏色選擇與選項儲存
-content.js # 修改選取顏色與解除網頁防護
-background.js # Service Worker（可擴充）
-icon.png # 擴充套件圖示
+- manifest.json # 擴充套件設定檔
+- popup.html # 設定視窗 HTML
+- popup.js # 處理顏色選擇與選項儲存
+- content.js # 修改選取顏色與解除網頁防護
+- background.js # Service Worker（可擴充）
+- icon.png # 擴充套件圖示
 
 ## 說明整理
 ChatGPT 5
