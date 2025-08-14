@@ -39,6 +39,6 @@
 - content.js # 修改選取顏色與解除網頁防護
 - background.js # Service Worker（可擴充）
 - icon.png # 擴充套件圖示
-
+---
 ## 說明整理
 ChatGPT 5
